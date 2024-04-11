@@ -1,5 +1,5 @@
 # Gemma-RAG
-Retrieval Augmentation Generation (RAG) using FAISS and Gemma 2b instruction tuned model from HuggingFace for answering your questions regarding movies.
+Retrieval Augmented Generation (RAG) using FAISS and Gemma 2b instruction tuned model from HuggingFace for answering your questions regarding movies.
 
 # Details
 - Dataset: "MongoDB/embedded_movies"
